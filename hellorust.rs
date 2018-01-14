@@ -11,4 +11,5 @@ fn main() {
 
     // Print text to the console
     println!("Hello World!");
+    println!("This is my second line!");
 }
